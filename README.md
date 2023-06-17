@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="931" alt="image" src="https://github.com/aveandrian/huddle-landing-page-with-curved-sections-react/assets/13519212/eb61db49-3adb-4f2a-90b5-a7bf5f8766fd">
